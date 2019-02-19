@@ -1,0 +1,16 @@
+{
+  "name" : "walle/geetest",
+  "description" : "Geetest Package for ThinkPHP5.x",
+  "version" : "1.0.0",
+  "license" : "MIT License",
+  "autoload" : {
+    "psr-4" : {
+      "think\\geetest\\" : "src/"
+    },
+    "files" : [ "src/helper.php" ]
+  },
+  "authors" : [ {
+    "name" : "CollinLuo",
+    "email" : "352369685@qq.com"
+  } ]
+}
